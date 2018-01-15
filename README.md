@@ -1,5 +1,6 @@
 # Jupyter Notebook使用笔记
 ## Jupyter Notebook介绍
+![](1.png)
 
 用Python编代码常用的两个工具（姑且先这样叫吧）：**Pycharm**和**Jupyter Notebook**。
 **Pycharm**是Python的集成开发环境这没错，但我们通常也认为**Jupyter Notebook**也是一个**Python IDE**。其实它是一款交互式的编程与展示web的工具而已，并不是一个**Python IDE**(很简单判断，它没有自动补全提示等功能)。
@@ -24,5 +25,4 @@ Command mode 和 Edit mode。 在一个cell中，按下Enter进入Edit mode,按�
 * **启动命令面板**
 在一个cell中（Command mode）,按下Ctrl + Shift + P
 
-***
-![](1.png)
+
