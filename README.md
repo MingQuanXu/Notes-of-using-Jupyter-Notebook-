@@ -25,4 +25,4 @@ Command mode 和 Edit mode。 在一个cell中，按下Enter进入Edit mode,按�
 在一个cell中（Command mode）,按下Ctrl + Shift + P
 
 ***
-![]()
+![](1.png)
