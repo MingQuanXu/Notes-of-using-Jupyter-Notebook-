@@ -6,7 +6,7 @@
 
 ## Jupyter Notebook的一些概念和快速开发技巧（notebook里面每一个叫做cell）
 
-* **两种模式**：Command mode 和 Edit mode。 在一个cell中，按下Enter进入Edit mode,按下Exc进入Command mode
+* **两种模式**：Command mode 和 Edit mode。 在一个cell中，按下Enter进入Edit mode,按下Exc进入Command mode
 
 * **运行当前cell,并移到下一个cell**: 在一个cell中（Command mode）,按下Shife + Enter
 
