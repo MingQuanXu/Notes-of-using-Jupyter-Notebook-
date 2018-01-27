@@ -7,7 +7,7 @@
 ## Jupyter Notebook安装
 Jpuyter有多种安装方式，常用的就是直接下载安装Anaconda，里面有自带的Jupyter notebook。第二种就是使用pip来安装，命令pip install jupyter。
 启动方式可以直接在Anaconda找到Jupyter notebook启动
-![image](https://github.com/MingQuanXu/Notes-of-using-Jupyter-Notebook-/blob/master/Photo.JPG)
+![image](https://github.com/MingQuanXu/Notes-of-using-Jupyter-Notebook-/blob/master/anaconda.png)
 
 ## Jupyter Notebook的一些概念和快速开发技巧（notebook里面每一个叫做cell）
 
